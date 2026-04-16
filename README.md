@@ -1,20 +1,20 @@
 # DM-G6220
 
-## 概述
-- 这里是 `DM-G6220` 中空云台电机的资料入口。
-- 本目录主要提供说明书、使用教程、参数资料和三维模型。
+## Overview
+- This is the entry page for the `DM-G6220` hollow gimbal motor materials.
+- The current public package includes manuals, a usage tutorial, a parameter document, and a 3D model.
 
-## 文档 / 资源
-- [DM-G6220中空云台电机说明书V1.0.pdf](DM-G6220中空云台电机说明书V1.0.pdf) - 先了解接口、参数和基础使用方式。
-- [DM_G6220中空云台电机使用教程.pdf](DM_G6220中空云台电机使用教程.pdf) - 适合第一次接触时按步骤上手。
-- [DM-G6220中空电机20241220.pdf](DM-G6220中空电机20241220.pdf) - 当前公开资料包中的型号说明文档。
-- [dm_6220_3d_20241220_1.stp](dm_6220_3d_20241220_1.stp) - 三维模型文件。
+## Documentation / Resources
+- [DM-G6220中空云台电机说明书V1.0.pdf](DM-G6220中空云台电机说明书V1.0.pdf) - start here for interfaces, parameters, and basic usage.
+- [DM_G6220中空云台电机使用教程.pdf](DM_G6220中空云台电机使用教程.pdf) - step-by-step tutorial for first-time setup.
+- [DM-G6220中空电机20241220.pdf](DM-G6220中空电机20241220.pdf) - additional model document in the current package.
+- [dm_6220_3d_20241220_1.stp](dm_6220_3d_20241220_1.stp) - 3D model file.
 
-## 快速开始
-- 如果你第一次查看这个型号，先看说明书，再看使用教程。
-- 如果你要做结构集成，直接下载 `stp` 模型文件。
+## Quick Start
+- Read the manual first, then open the usage tutorial if you are bringing the motor up for the first time.
+- Download the `stp` file directly if your main task is mechanical integration.
 
-## 状态
-- ZH: 主版入口
-- EN: Translation pending
-- TBD: 具体选型和适配细节按后续资料补齐
+## Status
+- EN: main entry
+- ZH: source files remain in this subtree
+- TBD: deeper application notes can be added later as separate docs
